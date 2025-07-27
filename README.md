@@ -34,9 +34,9 @@ Our goal is to uncover key **trends**, identify **performance drivers**, and der
 6. **Insights** – Interpreted trends and answered business questions.  
 7. **Documentation** – Summarized findings in notebooks and this README.
 
-For steps 1 to 4 : [Click here](Notebooks\01_Data_Preparation.ipynb)
+For steps 1 to 4 : [Click here](Notebooks/01_Data_Preparation.ipynb)
 
-For steps 5 and 6 : [Click here](Notebooks\02_Financial_Anlysis.ipynb)
+For steps 5 and 6 : [Click here](Notebooks/02_Financial_Anlysis.ipynb)
 
 
 ## Explanation of some terms used in this project
