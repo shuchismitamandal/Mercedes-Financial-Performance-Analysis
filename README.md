@@ -13,6 +13,32 @@ Our goal is to uncover key **trends**, identify **performance drivers**, and der
 - Is the company relying more on loans or its own money to fund its activities?
 - As the company earns more, is it also keeping more of that money as profit?
 
+## 🛠️ Tools Used
+
+- **Python** – Core language for analysis and visualization  
+  - `pandas` for data manipulation  
+  - `matplotlib` & `seaborn` for visualizing trends and ratios  
+  - `yfinance` API to extract financial statements (MBG.DE)
+
+- **Jupyter Notebook** – For combining code, visuals, and insights in one place  
+- **VS Code** – For code editing and project organization  
+- **Git & GitHub** – For version control and sharing the analysis
+
+## 📊 Project Workflow
+
+1. **Data Extraction** – Collected financial statements using the `yfinance` API.  
+2. **Data Cleaning** – Formatted dates, handled missing values, and structured data.  
+3. **EDA** – Explored key metrics and trends from 2020 to 2024.  
+4. **Ratio Analysis** – Calculated profitability, liquidity, solvency, and return ratios.  
+5. **Visualization** – Created charts to highlight financial performance and structure.  
+6. **Insights** – Interpreted trends and answered business questions.  
+7. **Documentation** – Summarized findings in notebooks and this README.
+
+For steps 1 to 4 : [Click here](Notebooks\01_Data_Preparation.ipynb)
+
+For steps 5 and 6 : [Click here](Notebooks\02_Financial_Anlysis.ipynb)
+
+
 ## Explanation of some terms used in this project
 ### 🤔 What Are Financial Statements?
 
