@@ -27,12 +27,11 @@ Our goal is to uncover key **trends**, identify **performance drivers**, and der
 ## 📊 Project Workflow
 
 1. **Data Extraction** – Collected financial statements using the `yfinance` API.  
-2. **Data Cleaning** – Formatted dates, handled missing values, and structured data.  
-3. **EDA** – Explored key metrics and trends from 2020 to 2024.  
-4. **Ratio Analysis** – Calculated profitability, liquidity, solvency, and return ratios.  
-5. **Visualization** – Created charts to highlight financial performance and structure.  
-6. **Insights** – Interpreted trends and answered business questions.  
-7. **Documentation** – Summarized findings in notebooks and this README.
+2. **Data Cleaning** – Formatted dates, handled missing values, and structured data.    
+3. **Ratio Analysis** – Calculated profitability, liquidity, solvency, and return ratios.  
+4. **Visualization** – Created charts to highlight financial performance and structure.  
+5. **Insights** – Interpreted trends and answered business questions.  
+6. **Documentation** – Summarized findings in notebooks and this README.
 
 For steps 1 to 4 : [Click here](Notebooks/01_Data_Preparation.ipynb)
 
