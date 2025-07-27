@@ -52,7 +52,7 @@ Mercedes-Benz is still a strong and stable company, but like many businesses, it
 ## **📊 Project Workflow**
 
 1. **Data Extraction** – Collected financial statements using the `yfinance` API.  
-2. **Data Cleaning** – Formatted dates, handled missing values, and structured data.   
+2. **Data Cleaning** – Formatted dates, handled missing values, and structured data.    
 3. **Ratio Analysis** – Calculated profitability, liquidity, solvency, and return ratios.  
 4. **Visualization** – Created charts to highlight financial performance and structure.  
 5. **Insights** – Interpreted trends and answered business questions.  
