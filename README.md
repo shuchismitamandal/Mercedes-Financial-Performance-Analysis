@@ -18,9 +18,9 @@ Our goal is to uncover key **trends**, identify **performance drivers**, and der
 
 From 2021 to 2024, Mercedes-Benz’s financial journey tells a story of strength, challenges, and opportunities.
 
-In the beginning, the company was doing well — making solid profits and managing its operations efficiently. The **Gross Profit Margin** stayed comfortably **above 22%**, showing that core operations were healthy. But by 2024, this number dropped slightly to **19.6%**, hinting at rising costs or pricing pressures.
+In the beginning, the company was doing well, making solid profits and managing its operations efficiently. The **Gross Profit Margin** stayed comfortably **above 22%**, showing that core operations were healthy. But by 2024, this number dropped slightly to **19.6%**, hinting at rising costs or pricing pressures.
 
-At the same time, the **Net Profit Margin** — which shows how much actual profit remains after all expenses — fell from **17.2% to just 7%**. This means even though the business was running well, other costs were eating into its profits.
+At the same time, the **Net Profit Margin**, which shows how much actual profit remains after all expenses, fell from **17.2% to just 7%**. This means even though the business was running well, other costs were eating into its profits.
 
 Looking at returns, key indicators like **Return on Equity** and **Return on Assets** declined over time, suggesting the company was making less profit from the money and assets it had.
 
@@ -29,7 +29,7 @@ But it’s not all bad news.
 Mercedes-Benz actually **improved its financial health** in several areas:
 - It became better at handling short-term obligations, as seen in the rising **Current Ratio**.
 - It **reduced its reliance on debt**, which is a smart move in uncertain times.
-- Its **operating cash flow** — the cash it earns from its main business — remained strong.
+- Its **operating cash flow**, the cash it earns from its main business, remained strong.
 
 On the growth side, though, things were slower. **Revenue growth** dropped from **12%** to negative territory, and **Net income** (final profit) shrank even more sharply. This suggests that while the company still made money, it struggled to grow and keep profits high.
 
